@@ -1,0 +1,1788 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'pl' Physical Memory: 16314 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\unity-hub\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Github/zad_2/SuperDuperGiera2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62152
+Successfully changed project path to: D:/Github/zad_2/SuperDuperGiera2D
+D:/Github/zad_2/SuperDuperGiera2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path D:/unity-hub/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Github/zad_2/SuperDuperGiera2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.6611
+Initialize mono
+Mono path[0] = 'D:/unity-hub/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'D:/unity-hub/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/unity-hub/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/unity-hub/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000699 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 30.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.993 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000514 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 29.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.683 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2251.
+Total: 1.591500 ms (FindLiveObjects: 0.173600 ms CreateObjectMapping: 0.072800 ms MarkObjects: 1.251300 ms  DeleteObjects: 0.093000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_44.asset
+  artifactKey: Guid(bf75e63a4e5136349b609f02e25bf6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_44.asset using Guid(bf75e63a4e5136349b609f02e25bf6f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c399d3edb9c6ac580274a874b6185f1') in 0.087033 seconds
+  Import took 0.090557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_78.asset
+  artifactKey: Guid(30f7ede15b30acc46a50fecc4910da19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_78.asset using Guid(30f7ede15b30acc46a50fecc4910da19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e38f3ab4cae30f4774a7a938043242') in 0.011288 seconds
+  Import took 0.013483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_74.asset
+  artifactKey: Guid(9503a11aba6479d4fa739454dc812ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_74.asset using Guid(9503a11aba6479d4fa739454dc812ecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5980f61995245cd47accb12ad02e7f') in 0.009412 seconds
+  Import took 0.011666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_2.asset
+  artifactKey: Guid(3e7be45bc4b27c740960610d088179de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_2.asset using Guid(3e7be45bc4b27c740960610d088179de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31b97bee86ca8647fd706f42efcdac4') in 0.009227 seconds
+  Import took 0.011414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_51.asset
+  artifactKey: Guid(694970dfaa9bd7149ada2bdbb4a157c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_51.asset using Guid(694970dfaa9bd7149ada2bdbb4a157c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcbf6c5851881892e4288b6a850afb99') in 0.010205 seconds
+  Import took 0.012475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_64.asset
+  artifactKey: Guid(45a8320dd30f2ec46b1fad8f7c24298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_64.asset using Guid(45a8320dd30f2ec46b1fad8f7c24298f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e5746e32051e284b05cde6e6213e9b') in 0.009384 seconds
+  Import took 0.011576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_15.asset
+  artifactKey: Guid(b7d44d7dd18d1f7408e3eb158b2b0745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_15.asset using Guid(b7d44d7dd18d1f7408e3eb158b2b0745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cace22b1c037dceaab305a4598ee1f07') in 0.009245 seconds
+  Import took 0.011604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_67.asset
+  artifactKey: Guid(bb90cfdf76418a043895c49311891b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_67.asset using Guid(bb90cfdf76418a043895c49311891b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcee10a69abb1500d04dbd2c3c7da71') in 0.007069 seconds
+  Import took 0.009272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_31.asset
+  artifactKey: Guid(b0ebdd6a3483035459dd293e53a41504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_31.asset using Guid(b0ebdd6a3483035459dd293e53a41504) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356ac4071cfa1fb2cce84150ca71f0c1') in 0.006830 seconds
+  Import took 0.009024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_30.asset
+  artifactKey: Guid(b04d1eff7b1f0df4699315033b4df441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_30.asset using Guid(b04d1eff7b1f0df4699315033b4df441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e6ed4b944900f031bbb5677e6b45a5') in 0.007144 seconds
+  Import took 0.009272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_14.asset
+  artifactKey: Guid(68f8f05bedf1dd04ca2c1a2e64d000ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_14.asset using Guid(68f8f05bedf1dd04ca2c1a2e64d000ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc45048612bc3b906cebb25065f731e') in 0.006842 seconds
+  Import took 0.008998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_68.asset
+  artifactKey: Guid(fc86e7a50a08f1945af6be43bf93113e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_68.asset using Guid(fc86e7a50a08f1945af6be43bf93113e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3698db90e08831c504b7da1240ffb4') in 0.007175 seconds
+  Import took 0.009524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_76.asset
+  artifactKey: Guid(74a12a73a2b4e8349b3b1fb2386fe877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_76.asset using Guid(74a12a73a2b4e8349b3b1fb2386fe877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc4a45cda911a6ea42fa59d7aa39831') in 0.006652 seconds
+  Import took 0.008892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_12.asset
+  artifactKey: Guid(aafb7980f0377034081e553de11de7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_12.asset using Guid(aafb7980f0377034081e553de11de7fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1dfdf3270858c791aa391b074b637d') in 0.006594 seconds
+  Import took 0.008758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_73.asset
+  artifactKey: Guid(721952d9a148c8e428dcc807df03229f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_73.asset using Guid(721952d9a148c8e428dcc807df03229f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f00b1c685f57bd559e9c300e3a664ce') in 0.007204 seconds
+  Import took 0.009342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_53.asset
+  artifactKey: Guid(8cb06d713b89ee347bab3243d67118b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_53.asset using Guid(8cb06d713b89ee347bab3243d67118b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd7ce69397062857c69b7d552872e41') in 0.006658 seconds
+  Import took 0.008788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_54.asset
+  artifactKey: Guid(5b86cd99b5a0865488503a9f5847c999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_54.asset using Guid(5b86cd99b5a0865488503a9f5847c999) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64efee18168321936338712c3b60b05a') in 0.006745 seconds
+  Import took 0.008886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_3.asset
+  artifactKey: Guid(e22d1ca9ad815f241af63301e36a2a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_3.asset using Guid(e22d1ca9ad815f241af63301e36a2a26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8e4d2acfd441a863f9b3ed08474d6c5') in 0.006535 seconds
+  Import took 0.008674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_32.asset
+  artifactKey: Guid(8fa6dcd5566ae9746a49c69e993ba81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_32.asset using Guid(8fa6dcd5566ae9746a49c69e993ba81a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3161375b45c21d0f094a91dd728709be') in 0.008077 seconds
+  Import took 0.010215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_70.asset
+  artifactKey: Guid(f9ca9eafe6381d248b48e338adef6b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_70.asset using Guid(f9ca9eafe6381d248b48e338adef6b99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daaa692d305316abd1705c94ca5b72de') in 0.070817 seconds
+  Import took 0.072961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_19.asset
+  artifactKey: Guid(e2f28a58750175f42ac7782f6a5c35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_19.asset using Guid(e2f28a58750175f42ac7782f6a5c35a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8001915aef51a1e1085af8cf6d2e1cc4') in 0.007065 seconds
+  Import took 0.009122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_35.asset
+  artifactKey: Guid(fd3c1d9a24e00e84ab2419231d76d762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_35.asset using Guid(fd3c1d9a24e00e84ab2419231d76d762) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '901c02142cc53251a70acd0bb313a029') in 0.006500 seconds
+  Import took 0.008632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_39.asset
+  artifactKey: Guid(5cfcd67ec7fcebd42b352d6371422864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_39.asset using Guid(5cfcd67ec7fcebd42b352d6371422864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a1995112b97dca4c5162ade62b6441') in 0.006637 seconds
+  Import took 0.008806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_72.asset
+  artifactKey: Guid(b939ad8ad20e10e4a946bffd974baab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_72.asset using Guid(b939ad8ad20e10e4a946bffd974baab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd59b7f72e167ccecc7b88ecbe63d71f') in 0.006696 seconds
+  Import took 0.008839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_56.asset
+  artifactKey: Guid(8493dfeec2e21d2419866fe848dcfefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_56.asset using Guid(8493dfeec2e21d2419866fe848dcfefd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f94c8877c2f1e9f71dd743d215519f') in 0.006863 seconds
+  Import took 0.009071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_59.asset
+  artifactKey: Guid(7bc8c741d3c147d4dba5981e59436a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_59.asset using Guid(7bc8c741d3c147d4dba5981e59436a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4958b25d16613a011253b9d180e3d398') in 0.006917 seconds
+  Import took 0.009078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_57.asset
+  artifactKey: Guid(d7be066362eb14342bb712d002a6dff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_57.asset using Guid(d7be066362eb14342bb712d002a6dff6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066f57690fcc617d4a32a62fe9563dc8') in 0.007344 seconds
+  Import took 0.009494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_1.asset
+  artifactKey: Guid(d17fec0860abc0344a9bd33db93affb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_1.asset using Guid(d17fec0860abc0344a9bd33db93affb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6c235d2f6904609d9ad81540761240') in 0.007287 seconds
+  Import took 0.009393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_42.asset
+  artifactKey: Guid(64fe3bfc9306fbb438bd5c9be8580abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_42.asset using Guid(64fe3bfc9306fbb438bd5c9be8580abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca3a4aec09d84baa688453e339c7ef6') in 0.007026 seconds
+  Import took 0.009222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_47.asset
+  artifactKey: Guid(efeb7e3d862de5a45a12e24dd7fde53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_47.asset using Guid(efeb7e3d862de5a45a12e24dd7fde53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c1b82ba0482e287ceaed8f715cfb404') in 0.007524 seconds
+  Import took 0.009648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_36.asset
+  artifactKey: Guid(dc8b80e66599c974381c5e7c1786af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_36.asset using Guid(dc8b80e66599c974381c5e7c1786af4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7510175ab9496182dd6faa97a4ae854') in 0.006918 seconds
+  Import took 0.009096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_5.asset
+  artifactKey: Guid(59f120b0c8aa53f4cbab3722dabbf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_5.asset using Guid(59f120b0c8aa53f4cbab3722dabbf7a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c7c327c76bede2df4868f6887e2a34') in 0.006612 seconds
+  Import took 0.008822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_38.asset
+  artifactKey: Guid(bcf6437c8c511a74cbebbb332b701873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_38.asset using Guid(bcf6437c8c511a74cbebbb332b701873) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e372e5e3668260eb23e470ff90e07053') in 0.007502 seconds
+  Import took 0.009671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_58.asset
+  artifactKey: Guid(ad2ad06993d723e46960fb9058eca3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_58.asset using Guid(ad2ad06993d723e46960fb9058eca3cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e401a0b92c5aaf642b454d037c1dc7b6') in 0.007476 seconds
+  Import took 0.009707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_17.asset
+  artifactKey: Guid(1dd09187cf8f1bb448f91c04d04bebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_17.asset using Guid(1dd09187cf8f1bb448f91c04d04bebff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63cbd2c936148601432b8f8178773df3') in 0.007313 seconds
+  Import took 0.009419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_52.asset
+  artifactKey: Guid(71632bdb396f03a4688b965a0528bc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_52.asset using Guid(71632bdb396f03a4688b965a0528bc3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e57954d09c4da09e14465e0ada96ff') in 0.006685 seconds
+  Import took 0.008862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_16.asset
+  artifactKey: Guid(6050c93e9dc534e4aafb9c6a993afb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_16.asset using Guid(6050c93e9dc534e4aafb9c6a993afb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aed0cd43fc7091b1e0944dc756ef0529') in 0.007598 seconds
+  Import took 0.009771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_71.asset
+  artifactKey: Guid(219a8d2b729d85544a4fe947b84403c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_71.asset using Guid(219a8d2b729d85544a4fe947b84403c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5eb774d719f961592a629c8713616c') in 0.006854 seconds
+  Import took 0.008996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_7.asset
+  artifactKey: Guid(689446c868985e141a4816d45bfe6d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_7.asset using Guid(689446c868985e141a4816d45bfe6d80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bf3e83ae4d7a22bed803844b8b0a00') in 0.006937 seconds
+  Import took 0.009164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_8.asset
+  artifactKey: Guid(e86a1b9493ee0164189790d1feb10484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_8.asset using Guid(e86a1b9493ee0164189790d1feb10484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa997b19d579145c24f4f1d4cdf7222e') in 0.006697 seconds
+  Import took 0.008918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_27.asset
+  artifactKey: Guid(cbcc91c7c951aa843a9f299cedf84086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_27.asset using Guid(cbcc91c7c951aa843a9f299cedf84086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db26f532a60420066150929b3181026a') in 0.006951 seconds
+  Import took 0.009109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_45.asset
+  artifactKey: Guid(3d7228b5006a02546b53a676b4d65771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_45.asset using Guid(3d7228b5006a02546b53a676b4d65771) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422bfd262b64f89193ca3be02168aadd') in 0.009464 seconds
+  Import took 0.011675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_22.asset
+  artifactKey: Guid(1de2f267fb342634d81a62681bd870c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_22.asset using Guid(1de2f267fb342634d81a62681bd870c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54e44d316597f8de778e4beec82635ca') in 0.006861 seconds
+  Import took 0.008999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_65.asset
+  artifactKey: Guid(f1fab4961285f1f45a383a1309e05079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_65.asset using Guid(f1fab4961285f1f45a383a1309e05079) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94238ab12c4e2d74c348e43889052da0') in 0.007001 seconds
+  Import took 0.009168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_46.asset
+  artifactKey: Guid(09dcd79d02d046843999eac62779c55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_46.asset using Guid(09dcd79d02d046843999eac62779c55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29cfa007b0d77e3a72db0b26c3087d40') in 0.006609 seconds
+  Import took 0.008725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_48.asset
+  artifactKey: Guid(63588d8baa9611448aa4fca38a0c9833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_48.asset using Guid(63588d8baa9611448aa4fca38a0c9833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d60532a4620fdb32830946bfa5dc794') in 0.006874 seconds
+  Import took 0.009114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_26.asset
+  artifactKey: Guid(c631759fa11d742449a53bd7efe9ce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_26.asset using Guid(c631759fa11d742449a53bd7efe9ce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3425b3e7d2b8ed6bbebf708041722b') in 0.007152 seconds
+  Import took 0.009356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_50.asset
+  artifactKey: Guid(1f2857a058594a94e84bbb4a9e9c669b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_50.asset using Guid(1f2857a058594a94e84bbb4a9e9c669b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '767dfa12ab01809b0701c5f93c40a2c6') in 0.006867 seconds
+  Import took 0.008977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_37.asset
+  artifactKey: Guid(e028a405e3df07e448b44c210dda1bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_37.asset using Guid(e028a405e3df07e448b44c210dda1bd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a2bb1b2f531dfcb10080293fb93321') in 0.007508 seconds
+  Import took 0.009631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_34.asset
+  artifactKey: Guid(06d7d1a6e45d35e4783cba78ac2012a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_34.asset using Guid(06d7d1a6e45d35e4783cba78ac2012a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8529433d0c4d623397f4fbd3e48c8477') in 0.006645 seconds
+  Import took 0.008989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_77.asset
+  artifactKey: Guid(00ea815dc7993194181c899303fb2366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_77.asset using Guid(00ea815dc7993194181c899303fb2366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e981028148557423ca467b1602b3ab') in 0.009241 seconds
+  Import took 0.011400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_28.asset
+  artifactKey: Guid(313d673b4d7bc6641a9f34bfc0896967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_28.asset using Guid(313d673b4d7bc6641a9f34bfc0896967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd37855a28d6b0b3cf4864bc3d23dcda2') in 0.007485 seconds
+  Import took 0.009721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_10.asset
+  artifactKey: Guid(6fc66e926ec8af843a60c782bae9598b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_10.asset using Guid(6fc66e926ec8af843a60c782bae9598b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aed697c3420be8584da8c3307b7b7b3') in 0.007025 seconds
+  Import took 0.009248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_43.asset
+  artifactKey: Guid(63f770831cc76604b94c7ffbd28ea0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_43.asset using Guid(63f770831cc76604b94c7ffbd28ea0c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182e60b729174f59b969aa6a90328bfd') in 0.006768 seconds
+  Import took 0.008983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_69.asset
+  artifactKey: Guid(2a00c73214d676646a9af6ab5dcb2bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_69.asset using Guid(2a00c73214d676646a9af6ab5dcb2bb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2970b29a52e733870ba5086e11640c86') in 0.006715 seconds
+  Import took 0.008825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_21.asset
+  artifactKey: Guid(05081f99745277640b7dbe7d450efd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_21.asset using Guid(05081f99745277640b7dbe7d450efd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3136a9bd1cdf82d08a1079b304f8fa') in 0.008467 seconds
+  Import took 0.010597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_75.asset
+  artifactKey: Guid(e1b51a2c8ed6c7242b5a40852a175990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_75.asset using Guid(e1b51a2c8ed6c7242b5a40852a175990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0cb91eb98e976a383592ce31076566') in 0.006827 seconds
+  Import took 0.008932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_41.asset
+  artifactKey: Guid(fea7e0790abdfcd468480e55a23a49f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_41.asset using Guid(fea7e0790abdfcd468480e55a23a49f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5228f7beecd3008582bbf369fe3fdc') in 0.007881 seconds
+  Import took 0.010107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_23.asset
+  artifactKey: Guid(34b00204e4e49fe439d0d9c25df06a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_23.asset using Guid(34b00204e4e49fe439d0d9c25df06a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fd30fb462cdcbcf9587af2c72459d6f') in 0.006739 seconds
+  Import took 0.008982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_66.asset
+  artifactKey: Guid(d0c33d5e70e71424f9997b0ca3d7533b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_66.asset using Guid(d0c33d5e70e71424f9997b0ca3d7533b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e37bf94fc4462b4ae2365a836cd628a') in 0.006801 seconds
+  Import took 0.009003 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_24.asset
+  artifactKey: Guid(9e29f45a055f9084a9af0c72d8a55186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_24.asset using Guid(9e29f45a055f9084a9af0c72d8a55186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf98dc2dba06aa3c41181abc9ee2e42') in 0.007578 seconds
+  Import took 0.009691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_20.asset
+  artifactKey: Guid(0e15fc144c74af743927bcd7e0b824b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_20.asset using Guid(0e15fc144c74af743927bcd7e0b824b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7b0d09de88735e806c7ba4e93b7e798') in 0.007320 seconds
+  Import took 0.009480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_0.asset
+  artifactKey: Guid(4d68782b64710da4babdc0fd85032e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_0.asset using Guid(4d68782b64710da4babdc0fd85032e81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad7a3e1a8fc1e5597896251c5b9c368') in 0.007218 seconds
+  Import took 0.009278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_4.asset
+  artifactKey: Guid(04c91d42524c9904c827b6b5192081ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_4.asset using Guid(04c91d42524c9904c827b6b5192081ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97e04bb0e58b60bad6a0c03d8f4f3dfc') in 0.006600 seconds
+  Import took 0.008715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_25.asset
+  artifactKey: Guid(f5e3dbb90b45f564488f1ed223cf81d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_25.asset using Guid(f5e3dbb90b45f564488f1ed223cf81d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ddf5aaccdeecf4dd02199db8968f27') in 0.007228 seconds
+  Import took 0.009492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_60.asset
+  artifactKey: Guid(8fe3c188fe5d12349a09af225e03d181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_60.asset using Guid(8fe3c188fe5d12349a09af225e03d181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb2248c5029af1aa7aedd5688112e327') in 0.007163 seconds
+  Import took 0.009435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_61.asset
+  artifactKey: Guid(fb77583e73a3a7c41958a67431838dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_61.asset using Guid(fb77583e73a3a7c41958a67431838dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2761eb3199adc58265c5809a510f1441') in 0.007045 seconds
+  Import took 0.009231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_9.asset
+  artifactKey: Guid(08c5be8ac1a92c94eb207777ea608d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_9.asset using Guid(08c5be8ac1a92c94eb207777ea608d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440ade95f4af0300553001c4ae54969d') in 0.006667 seconds
+  Import took 0.008856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_29.asset
+  artifactKey: Guid(732e1f76b3a7d79498f2cf787bfdce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_29.asset using Guid(732e1f76b3a7d79498f2cf787bfdce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c04463a47a52e70ad6478b9c2291254') in 0.007107 seconds
+  Import took 0.009392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_40.asset
+  artifactKey: Guid(a6382907df2a20a49be6036061671145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_40.asset using Guid(a6382907df2a20a49be6036061671145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4ebe425c58db5d745c6a72324bc285') in 0.007177 seconds
+  Import took 0.009381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_55.asset
+  artifactKey: Guid(7bb3527f3fc79d3459beefb06ed462fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_55.asset using Guid(7bb3527f3fc79d3459beefb06ed462fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4116d6b448c05f5ff8e62c19a0d6e03d') in 0.006987 seconds
+  Import took 0.009227 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_6.asset
+  artifactKey: Guid(188d04a859ee7254badacf08469568cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_6.asset using Guid(188d04a859ee7254badacf08469568cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed6e5efdd62e282cb39d42de114655e') in 0.006783 seconds
+  Import took 0.008947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_49.asset
+  artifactKey: Guid(1fea528682c095841af8bb4b97bfb410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_49.asset using Guid(1fea528682c095841af8bb4b97bfb410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed37d1ef21c52f4eb16670aac685a613') in 0.008676 seconds
+  Import took 0.010925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_18.asset
+  artifactKey: Guid(300df23ed8bc6eb44a9a8eda41a4bc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_18.asset using Guid(300df23ed8bc6eb44a9a8eda41a4bc7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2a175b67778d3a8eac850b6d9c73c8') in 0.006829 seconds
+  Import took 0.008973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_11.asset
+  artifactKey: Guid(54e27bc2110b2f24591db6dd955ba019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_11.asset using Guid(54e27bc2110b2f24591db6dd955ba019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7333320cfb11ce96c74bca23a379b73') in 0.007461 seconds
+  Import took 0.009601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_13.asset
+  artifactKey: Guid(b0f0de43b9ec16443b0a32ca348e2170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_13.asset using Guid(b0f0de43b9ec16443b0a32ca348e2170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc9cc5126ff7ce255a0bf47c3051bc2') in 0.006853 seconds
+  Import took 0.009022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_62.asset
+  artifactKey: Guid(21f07e3f917c5004b968e98f1f28a634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_62.asset using Guid(21f07e3f917c5004b968e98f1f28a634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d6d28d6da75effd01fa06ca0774f2') in 0.007926 seconds
+  Import took 0.010162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_63.asset
+  artifactKey: Guid(e93ac28d3df7d1a429fbe91c764d55b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_63.asset using Guid(e93ac28d3df7d1a429fbe91c764d55b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0daa3e036c351de5129650760c63c2e') in 0.006655 seconds
+  Import took 0.008814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_33.asset
+  artifactKey: Guid(62b07ec67949a3d4984546ea846dd2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_33.asset using Guid(62b07ec67949a3d4984546ea846dd2fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '272ff7dbe2fa7b721b56c4c1fa97c145') in 0.007027 seconds
+  Import took 0.009183 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.6 MB.
+System memory in use after: 52.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 2.023000 ms (FindLiveObjects: 0.139700 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.753800 ms  DeleteObjects: 0.071000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000541 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.652 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.1 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 1.513100 ms (FindLiveObjects: 0.142700 ms CreateObjectMapping: 0.057600 ms MarkObjects: 1.238200 ms  DeleteObjects: 0.074000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.415297 seconds.
+  path: Assets/player movement/PlayerMovements.cs
+  artifactKey: Guid(41bc188bdaf7fae489390fa6776132c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player movement/PlayerMovements.cs using Guid(41bc188bdaf7fae489390fa6776132c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c04888299004b62b789bb2d3bddf1c') in 0.005765 seconds
+  Import took 0.008187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/player movement/PlayerMovements.cs
+  artifactKey: Guid(41bc188bdaf7fae489390fa6776132c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/player movement/PlayerMovements.cs using Guid(41bc188bdaf7fae489390fa6776132c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c04888299004b62b789bb2d3bddf1c') in 0.001117 seconds
+  Import took 0.003146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.922997 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412dcb57b31f49cb50955ec4e4cd9f98') in 0.008952 seconds
+  Import took 0.011243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011549 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '412dcb57b31f49cb50955ec4e4cd9f98') in 0.001641 seconds
+  Import took 0.003838 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.633 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.1 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 1.510100 ms (FindLiveObjects: 0.168000 ms CreateObjectMapping: 0.061600 ms MarkObjects: 1.198800 ms  DeleteObjects: 0.081000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000520 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
+Total: 1.569800 ms (FindLiveObjects: 0.176300 ms CreateObjectMapping: 0.125000 ms MarkObjects: 1.182200 ms  DeleteObjects: 0.085600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
+Total: 1.509700 ms (FindLiveObjects: 0.129000 ms CreateObjectMapping: 0.054200 ms MarkObjects: 1.245100 ms  DeleteObjects: 0.080800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000537 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.603 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 1.481000 ms (FindLiveObjects: 0.165200 ms CreateObjectMapping: 0.065700 ms MarkObjects: 1.168000 ms  DeleteObjects: 0.081400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.599 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
+Total: 1.513300 ms (FindLiveObjects: 0.136800 ms CreateObjectMapping: 0.058100 ms MarkObjects: 1.233900 ms  DeleteObjects: 0.083700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 526.094345 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_79.asset
+  artifactKey: Guid(94cb7c8381cb02644a5d2a1641b9d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_79.asset using Guid(94cb7c8381cb02644a5d2a1641b9d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf2b5ed3ab33bbedc7cbe742a580edf') in 0.033504 seconds
+  Import took 0.036285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_81.asset
+  artifactKey: Guid(159dd9cc608543747a3c5886813a7027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_81.asset using Guid(159dd9cc608543747a3c5886813a7027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfbcf97a34bbde47c40fb5141dfb024a') in 0.007600 seconds
+  Import took 0.009688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_104.asset
+  artifactKey: Guid(d6b514739141a864b9b75c7d3312f049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_104.asset using Guid(d6b514739141a864b9b75c7d3312f049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6f849c54438dc7d227307a1930692c') in 0.011007 seconds
+  Import took 0.013101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_89.asset
+  artifactKey: Guid(1a6e333b446e46c488d26c5c63ed52ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_89.asset using Guid(1a6e333b446e46c488d26c5c63ed52ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffef9a4ccde3d9331e50be49b035b028') in 0.007873 seconds
+  Import took 0.010033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_90.asset
+  artifactKey: Guid(be64c27718b80954a878444cff28526a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_90.asset using Guid(be64c27718b80954a878444cff28526a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46c413d85f51ec4fdf4d1ec9e412fec0') in 0.007871 seconds
+  Import took 0.010113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_103.asset
+  artifactKey: Guid(3508f97ff3821454c856eae141a4f051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_103.asset using Guid(3508f97ff3821454c856eae141a4f051) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef4ff36eccbaca1d9d9b3b09f93b32d') in 0.010294 seconds
+  Import took 0.012389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_117.asset
+  artifactKey: Guid(43c832ce7e368a94fac4c14d0d7eea5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_117.asset using Guid(43c832ce7e368a94fac4c14d0d7eea5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e643bfc53bd9d96333965dc5d05c7beb') in 0.007559 seconds
+  Import took 0.009755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_125.asset
+  artifactKey: Guid(8703751f7b57e144c8c4fdbba2f106b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_125.asset using Guid(8703751f7b57e144c8c4fdbba2f106b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2720e37028734dd7873b805ac7bb89e2') in 0.007866 seconds
+  Import took 0.010008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_116.asset
+  artifactKey: Guid(4f7364382b88ffc488ce76cc34e3c72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_116.asset using Guid(4f7364382b88ffc488ce76cc34e3c72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15677f776ed9ea1a13dad04c73d0e6b9') in 0.011318 seconds
+  Import took 0.013451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_101.asset
+  artifactKey: Guid(fd0f1a067a2a3a643bb6857bb0a114aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_101.asset using Guid(fd0f1a067a2a3a643bb6857bb0a114aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5be7f1aef64365f94cd927817c5e32a') in 0.008353 seconds
+  Import took 0.010493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_92.asset
+  artifactKey: Guid(4ef20e02289d756439d7594b555e7f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_92.asset using Guid(4ef20e02289d756439d7594b555e7f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a5e1c8ea281afa1e8daa8ca8218bb8a') in 0.008035 seconds
+  Import took 0.010209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_84.asset
+  artifactKey: Guid(6cd655cc86f9a28478e66bd66c48ed63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_84.asset using Guid(6cd655cc86f9a28478e66bd66c48ed63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac055b309470d26c2edeea307317687f') in 0.009458 seconds
+  Import took 0.011588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_100.asset
+  artifactKey: Guid(fa64f465294652c4b9e74d8646561e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_100.asset using Guid(fa64f465294652c4b9e74d8646561e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dcefe5496a47acd4b7fdd594515e3e7') in 0.007976 seconds
+  Import took 0.010123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_94.asset
+  artifactKey: Guid(95e60894965285249bccd7ec0b9c2c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_94.asset using Guid(95e60894965285249bccd7ec0b9c2c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd79ab53bb4ca3f365b725fbe9b4e56fc') in 0.007839 seconds
+  Import took 0.009992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_93.asset
+  artifactKey: Guid(161eea9d6260a734391ef46790019705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_93.asset using Guid(161eea9d6260a734391ef46790019705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1128751b0940abef1c4865a9e27718') in 0.012391 seconds
+  Import took 0.014643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_99.asset
+  artifactKey: Guid(2e85eaadd981ccb49b559999e2455ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_99.asset using Guid(2e85eaadd981ccb49b559999e2455ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2511f998f47a8cec5e11f7d46fdb635') in 0.009858 seconds
+  Import took 0.012087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_121.asset
+  artifactKey: Guid(a1b4e4cf26714f64da67085dc090bc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_121.asset using Guid(a1b4e4cf26714f64da67085dc090bc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49d33a51ca69986328ff31243d09514') in 0.007549 seconds
+  Import took 0.009865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_87.asset
+  artifactKey: Guid(f083a98e5b6c61d47a233c2edeaf3341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_87.asset using Guid(f083a98e5b6c61d47a233c2edeaf3341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8f5399c493995db5d111c13319254a') in 0.008006 seconds
+  Import took 0.010172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_122.asset
+  artifactKey: Guid(fb37eced41f4a7b4e81f3a15ed80b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_122.asset using Guid(fb37eced41f4a7b4e81f3a15ed80b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21f1605b975322e5083b84f1dd4c9393') in 0.008304 seconds
+  Import took 0.010503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_111.asset
+  artifactKey: Guid(04224d18b773754458692885326e374d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_111.asset using Guid(04224d18b773754458692885326e374d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244636e7a74da1ab93f7ae7afff2d13f') in 0.007341 seconds
+  Import took 0.009456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_114.asset
+  artifactKey: Guid(acfe3794afc02cf4a8a74b1c73e682f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_114.asset using Guid(acfe3794afc02cf4a8a74b1c73e682f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241196a3decf82e4e57888398b8fca95') in 0.009442 seconds
+  Import took 0.011610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_115.asset
+  artifactKey: Guid(06fb5343185ed924f958eaedef23b1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_115.asset using Guid(06fb5343185ed924f958eaedef23b1ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '522bde16c63cb660d4bc0ac0a90b9077') in 0.008379 seconds
+  Import took 0.010534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_123.asset
+  artifactKey: Guid(155f5d72db9327d4e96376c285fbe01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_123.asset using Guid(155f5d72db9327d4e96376c285fbe01e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de35b92788fcc5e6a1db1eb870f4c2b4') in 0.007753 seconds
+  Import took 0.009910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_124.asset
+  artifactKey: Guid(1ee2c83d2272d9e40b5c139af49967ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_124.asset using Guid(1ee2c83d2272d9e40b5c139af49967ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '785e8fb8e9fa5bf238ed2e5303dd9ba5') in 0.009505 seconds
+  Import took 0.011600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_85.asset
+  artifactKey: Guid(e8b193ab5f7273342bc1443aa0d14ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_85.asset using Guid(e8b193ab5f7273342bc1443aa0d14ef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9bc168f51235b9624079f6fb0eab95') in 0.009262 seconds
+  Import took 0.011453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_109.asset
+  artifactKey: Guid(eab2cf6958ddb8a4cb32c5c32c76c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_109.asset using Guid(eab2cf6958ddb8a4cb32c5c32c76c975) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5483371734643b3834b178ffadeff42') in 0.007529 seconds
+  Import took 0.009662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_126.asset
+  artifactKey: Guid(f1d856301cb91df4e97aee423820755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_126.asset using Guid(f1d856301cb91df4e97aee423820755c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '992fa0aa0008e115f69a3fcc3244a11a') in 0.009429 seconds
+  Import took 0.011606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_82.asset
+  artifactKey: Guid(95648d86ab5c7df4bb7e0a26aef68e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_82.asset using Guid(95648d86ab5c7df4bb7e0a26aef68e33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e2bca3c776b63d8926428a1c9194386') in 0.007935 seconds
+  Import took 0.010038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_112.asset
+  artifactKey: Guid(72cc8deb3c8a88a4f80660adee7c9de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_112.asset using Guid(72cc8deb3c8a88a4f80660adee7c9de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63c4178a965e178ecac1b5a76d422fbf') in 0.007698 seconds
+  Import took 0.009898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_108.asset
+  artifactKey: Guid(f8b8aad14655e504e9cb7def31a79b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_108.asset using Guid(f8b8aad14655e504e9cb7def31a79b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bda2733a581e324f2150a2f54950987e') in 0.011272 seconds
+  Import took 0.013399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_88.asset
+  artifactKey: Guid(688475bf3e8d0e54196ed2e223da22ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_88.asset using Guid(688475bf3e8d0e54196ed2e223da22ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1648fe163bfc4418d58b2355fd8d4224') in 0.008504 seconds
+  Import took 0.010653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_80.asset
+  artifactKey: Guid(7172cf7a60ebfb9468e7000718d19761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_80.asset using Guid(7172cf7a60ebfb9468e7000718d19761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd056a2c6ed9c64cbd93c41bf5acf5e3d') in 0.007878 seconds
+  Import took 0.010024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_83.asset
+  artifactKey: Guid(c5b47e0e52b581f44a6327993237aeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_83.asset using Guid(c5b47e0e52b581f44a6327993237aeb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6aee854aadc78ee94bd4985d58d0aa4') in 0.010606 seconds
+  Import took 0.012747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_95.asset
+  artifactKey: Guid(77099840cd49d3e4d8a96bdbe3297fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_95.asset using Guid(77099840cd49d3e4d8a96bdbe3297fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a2ecd2bf5af0fde2c18e86d5fe7999') in 0.007624 seconds
+  Import took 0.009774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_118.asset
+  artifactKey: Guid(a785655ad8ceced419bf963ab33fddd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_118.asset using Guid(a785655ad8ceced419bf963ab33fddd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5463ecb182c30bd59393a88d3616b676') in 0.007868 seconds
+  Import took 0.010007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_113.asset
+  artifactKey: Guid(135741972c7ac314ab159a8eac3185cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_113.asset using Guid(135741972c7ac314ab159a8eac3185cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a1fadf3f95d50ece654c341075bbea') in 0.009104 seconds
+  Import took 0.011260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_97.asset
+  artifactKey: Guid(cd32ba95fedcc9b41ae191b153e15fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_97.asset using Guid(cd32ba95fedcc9b41ae191b153e15fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa49795f40d95c9405b0a724a0f80409') in 0.008411 seconds
+  Import took 0.010598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_105.asset
+  artifactKey: Guid(59d1243673c509c4b973998f72f2f80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_105.asset using Guid(59d1243673c509c4b973998f72f2f80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ff712b6fae97e460ebad3b8595621a') in 0.008138 seconds
+  Import took 0.010348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_96.asset
+  artifactKey: Guid(9e5aa5468c576774cac7276a2c0a406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_96.asset using Guid(9e5aa5468c576774cac7276a2c0a406b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45e44a2edcc307f62f35048e229c728d') in 0.009608 seconds
+  Import took 0.012164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_91.asset
+  artifactKey: Guid(196bb51c07fdfbb409c2bc5015787c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_91.asset using Guid(196bb51c07fdfbb409c2bc5015787c78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9c81b448a70a9eab5098bf99ddb1116') in 0.007816 seconds
+  Import took 0.009978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_119.asset
+  artifactKey: Guid(ffb50f956c1b9f04a8923795ec890657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_119.asset using Guid(ffb50f956c1b9f04a8923795ec890657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3c1a463e66c39ec8a85371c9580daf') in 0.008223 seconds
+  Import took 0.010351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_79.asset
+  artifactKey: Guid(94cb7c8381cb02644a5d2a1641b9d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_79.asset using Guid(94cb7c8381cb02644a5d2a1641b9d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf2b5ed3ab33bbedc7cbe742a580edf') in 0.007219 seconds
+  Import took 0.009406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_98.asset
+  artifactKey: Guid(d26cedced44bdb149aab83d0fc0e19e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_98.asset using Guid(d26cedced44bdb149aab83d0fc0e19e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4470cf76e115c32a2a6cd793142f4d0e') in 0.007737 seconds
+  Import took 0.009858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_86.asset
+  artifactKey: Guid(9f7207837dafc7c4698f96ccf36126fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_86.asset using Guid(9f7207837dafc7c4698f96ccf36126fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2476e7b3d9ecf63b63691e55fb940c') in 0.008601 seconds
+  Import took 0.010774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_102.asset
+  artifactKey: Guid(8a7dd3a041a66414b91b9012d71da1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_102.asset using Guid(8a7dd3a041a66414b91b9012d71da1df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646aaf62c6e23e77be1b16400ef3e401') in 0.007651 seconds
+  Import took 0.009812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_140.asset
+  artifactKey: Guid(768b01bcd0240a24a91b8f14acc5aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_140.asset using Guid(768b01bcd0240a24a91b8f14acc5aed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9795edc5d66bdd2ef93a188a4bebb8c1') in 0.007825 seconds
+  Import took 0.010271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_137.asset
+  artifactKey: Guid(12cd7a10a3a37de40be8ad340b1db0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_137.asset using Guid(12cd7a10a3a37de40be8ad340b1db0dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1568ce4eee54a41d9a2722e05393acae') in 0.008591 seconds
+  Import took 0.010709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_128.asset
+  artifactKey: Guid(76207d593c522e84abede835475ca8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_128.asset using Guid(76207d593c522e84abede835475ca8a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c549c9b1cab86385bfa968cd584f4c2') in 0.007778 seconds
+  Import took 0.009868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_142.asset
+  artifactKey: Guid(8eb7481d28afa5244a262c7009c88a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_142.asset using Guid(8eb7481d28afa5244a262c7009c88a53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63caf12c89c1b49e95cbc1ab764474ba') in 0.008226 seconds
+  Import took 0.010317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_147.asset
+  artifactKey: Guid(c0f3e728ce5c6e846bcb3a12e57c0e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_147.asset using Guid(c0f3e728ce5c6e846bcb3a12e57c0e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd26e1c0ced7d76adf817969861c6571') in 0.010350 seconds
+  Import took 0.012456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_145.asset
+  artifactKey: Guid(aa0b7d05344aac645871db8a678d52f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_145.asset using Guid(aa0b7d05344aac645871db8a678d52f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aebee7b65411d61b22a79c3fca888c5f') in 0.008660 seconds
+  Import took 0.010824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_139.asset
+  artifactKey: Guid(4de249fe1aedde44bbedcd1b1c6d928e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_139.asset using Guid(4de249fe1aedde44bbedcd1b1c6d928e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051f03499f8932b99922686fd20fefd0') in 0.008539 seconds
+  Import took 0.010668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_141.asset
+  artifactKey: Guid(73aa8623a7527624c84cda9684f8b179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_141.asset using Guid(73aa8623a7527624c84cda9684f8b179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ddb6e5a732764e2d2251d8ac72afd57') in 0.009567 seconds
+  Import took 0.011729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_144.asset
+  artifactKey: Guid(ca907b79f3a596f4999839ded3611aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_144.asset using Guid(ca907b79f3a596f4999839ded3611aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcc4534a249058571e455d97c0ceabd4') in 0.016993 seconds
+  Import took 0.019126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_169.asset
+  artifactKey: Guid(74becf2f694328842a2fa52c60664145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_169.asset using Guid(74becf2f694328842a2fa52c60664145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f5f23ff9aa73543152b32c95155d065') in 0.030141 seconds
+  Import took 0.032285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_170.asset
+  artifactKey: Guid(f144db6975e63054c875db275db0e5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_170.asset using Guid(f144db6975e63054c875db275db0e5f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42625a87c0ae86e94d813693d5cba64d') in 0.008218 seconds
+  Import took 0.010345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_168.asset
+  artifactKey: Guid(434e44e02ef18d74bbb00bbaed207e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_168.asset using Guid(434e44e02ef18d74bbb00bbaed207e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '707abcfcec92e6ebcc6f57f476628ff3') in 0.007491 seconds
+  Import took 0.009631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_138.asset
+  artifactKey: Guid(00aa6c23fea18af40b3327c3c8225450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_138.asset using Guid(00aa6c23fea18af40b3327c3c8225450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c1fbf1afe5db60ebec3416b7b885d5') in 0.008687 seconds
+  Import took 0.010797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_158.asset
+  artifactKey: Guid(cf819a2ae762f0b40ba63fc17b739265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_158.asset using Guid(cf819a2ae762f0b40ba63fc17b739265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659efac8ac25b96d15dd50573303101d') in 0.007898 seconds
+  Import took 0.010054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_143.asset
+  artifactKey: Guid(e4c7fcfd42071f648903dba04046717c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_143.asset using Guid(e4c7fcfd42071f648903dba04046717c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '505a977946bf226a747f327a02566a80') in 0.007839 seconds
+  Import took 0.010016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_130.asset
+  artifactKey: Guid(17d8010d9975eb14c837816ef8690092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_130.asset using Guid(17d8010d9975eb14c837816ef8690092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8590e9f1f627112d2b132708fccc521') in 0.007506 seconds
+  Import took 0.009593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_159.asset
+  artifactKey: Guid(2d753f0acf64988469d89cddd98cd2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_159.asset using Guid(2d753f0acf64988469d89cddd98cd2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '740ebbea8f422ad73eb5adddb2ef3508') in 0.007844 seconds
+  Import took 0.009973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_132.asset
+  artifactKey: Guid(c9717b7939f187f458a54962ff09fe2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_132.asset using Guid(c9717b7939f187f458a54962ff09fe2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdaef6357b6e6280cfcb155063bd3246') in 0.010019 seconds
+  Import took 0.012276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_160.asset
+  artifactKey: Guid(5fa4cdd86ca5e6d44bf44f8e0f5b6454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_160.asset using Guid(5fa4cdd86ca5e6d44bf44f8e0f5b6454) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1eaab3d8226f07f1b296f43be9c7ec') in 0.008491 seconds
+  Import took 0.010754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_174.asset
+  artifactKey: Guid(21aca00b9a210724c812e1594abf4b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_174.asset using Guid(21aca00b9a210724c812e1594abf4b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a994b1b66d5a98f9952101a19c156de9') in 0.007957 seconds
+  Import took 0.010117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_153.asset
+  artifactKey: Guid(c56000db60c46644398ca0909f4abb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_153.asset using Guid(c56000db60c46644398ca0909f4abb89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1704069d7e1e8fc5d7dff1183611a861') in 0.007769 seconds
+  Import took 0.009967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_146.asset
+  artifactKey: Guid(196b172eca4560b4ba78728338d1c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_146.asset using Guid(196b172eca4560b4ba78728338d1c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac95226ae5e460a1ecaafa91ab9cb34e') in 0.007516 seconds
+  Import took 0.009631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_157.asset
+  artifactKey: Guid(644234aa26661cd4fb057552d9bec87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_157.asset using Guid(644234aa26661cd4fb057552d9bec87e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c26d47bd6f4a1b12ac55c87bd962d5dc') in 0.007541 seconds
+  Import took 0.009752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_134.asset
+  artifactKey: Guid(8a12848a68ac9e247aa45b7f26b1f4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_134.asset using Guid(8a12848a68ac9e247aa45b7f26b1f4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c673219b9417eaf5a56236753ad8ee2a') in 0.010306 seconds
+  Import took 0.012462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_164.asset
+  artifactKey: Guid(b0c7a457977241740bfd017ec434994a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_164.asset using Guid(b0c7a457977241740bfd017ec434994a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9eae3cd2d1808dbce60977935c7e549') in 0.007680 seconds
+  Import took 0.010002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_167.asset
+  artifactKey: Guid(0669e5ad8d514194b99b6e13dcf1abef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_167.asset using Guid(0669e5ad8d514194b99b6e13dcf1abef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103ec04dd6fa847ef1e5dfb6f2660ed8') in 0.007466 seconds
+  Import took 0.009702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_171.asset
+  artifactKey: Guid(826ae2e0629b24d49aaa48d3d65d68ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_171.asset using Guid(826ae2e0629b24d49aaa48d3d65d68ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b16b64125aa02fe32faf1acd7fb0baef') in 0.007947 seconds
+  Import took 0.010124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_131.asset
+  artifactKey: Guid(e602fef5406564c49943e5e43a2937dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_131.asset using Guid(e602fef5406564c49943e5e43a2937dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca90009dcc89847429682edef86fe47') in 0.008611 seconds
+  Import took 0.010793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000129 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_151.asset
+  artifactKey: Guid(a60ceb767d705444688fb364ab2f6109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_151.asset using Guid(a60ceb767d705444688fb364ab2f6109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9d99eafc3a8a2e0b47f6e05cd0252a') in 0.009263 seconds
+  Import took 0.011590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_163.asset
+  artifactKey: Guid(2a08118ec4fcfa34a90647ba0ef6ceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_163.asset using Guid(2a08118ec4fcfa34a90647ba0ef6ceb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd289dc6804fd0e81cddd5727f2063d3') in 0.008944 seconds
+  Import took 0.011089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_135.asset
+  artifactKey: Guid(50e34d83e4a4e274b9b821ace9d470ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_135.asset using Guid(50e34d83e4a4e274b9b821ace9d470ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '268fc02a81416fa52c16010f574d75ce') in 0.007565 seconds
+  Import took 0.009718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_133.asset
+  artifactKey: Guid(2cb8747fbe1db384f88ec40724a4ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_133.asset using Guid(2cb8747fbe1db384f88ec40724a4ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af7b3e229d0508f1aacb98d6c52338c8') in 0.008516 seconds
+  Import took 0.010685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_154.asset
+  artifactKey: Guid(0c23f61abadc8124bb32d254cb2abc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_154.asset using Guid(0c23f61abadc8124bb32d254cb2abc62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef80f7ecfc2a396a4f21a4821a145e78') in 0.008270 seconds
+  Import took 0.010429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_162.asset
+  artifactKey: Guid(0ad21b9b066fa354c976478cb063461c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_162.asset using Guid(0ad21b9b066fa354c976478cb063461c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d300b31fc0a8bcb83bd66fe339a791') in 0.007820 seconds
+  Import took 0.009924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_155.asset
+  artifactKey: Guid(ba5d2e4c5e1bf6248aad3fe70b0578d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_155.asset using Guid(ba5d2e4c5e1bf6248aad3fe70b0578d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ed5bf380733cb37ada65ee2f3407e66') in 0.009087 seconds
+  Import took 0.011193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_166.asset
+  artifactKey: Guid(6a13d724a76e5a64ebbc4e777645df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_166.asset using Guid(6a13d724a76e5a64ebbc4e777645df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6a12c27e687d3cbac14ee0e32f9498') in 0.007788 seconds
+  Import took 0.009990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_129.asset
+  artifactKey: Guid(093e0a7230663d2468a264feb315f404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_129.asset using Guid(093e0a7230663d2468a264feb315f404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21252058c567cfe84c8e644f7dc152cc') in 0.007560 seconds
+  Import took 0.009706 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_152.asset
+  artifactKey: Guid(787d673532f7a60458d049c02c0f30c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_152.asset using Guid(787d673532f7a60458d049c02c0f30c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b959950cab331523b338ae7a81e8610e') in 0.012021 seconds
+  Import took 0.014175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_150.asset
+  artifactKey: Guid(7ae12da32ccb08c42ad610efbaa21d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_150.asset using Guid(7ae12da32ccb08c42ad610efbaa21d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d3681b7af49912eb4a853df2133ecd4') in 0.007623 seconds
+  Import took 0.009788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_148.asset
+  artifactKey: Guid(8a7fefe98a48f454e8ae9821c8a7ec38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_148.asset using Guid(8a7fefe98a48f454e8ae9821c8a7ec38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f020e2608926b8caf4c228ec31e4cfb') in 0.007926 seconds
+  Import took 0.010093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_127.asset
+  artifactKey: Guid(30bda3750155a3549b3e3b20fa590b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_127.asset using Guid(30bda3750155a3549b3e3b20fa590b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02fa9878275ffd075e8fbfc90154291f') in 0.010875 seconds
+  Import took 0.013026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000113 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_136.asset
+  artifactKey: Guid(8b6638cad22cc28408f6a6cdede71b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_136.asset using Guid(8b6638cad22cc28408f6a6cdede71b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8401845ebe2359d8cc2e6f899d2355a') in 0.008144 seconds
+  Import took 0.010328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_98.asset
+  artifactKey: Guid(d26cedced44bdb149aab83d0fc0e19e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_98.asset using Guid(d26cedced44bdb149aab83d0fc0e19e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4470cf76e115c32a2a6cd793142f4d0e') in 0.005093 seconds
+  Import took 0.007210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_161.asset
+  artifactKey: Guid(771ac4b199e7bc7479292e48e4568c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_161.asset using Guid(771ac4b199e7bc7479292e48e4568c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d989276303cde5eaf3c5eeeca4498a') in 0.011411 seconds
+  Import took 0.013556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_172.asset
+  artifactKey: Guid(1cbf4ab19d3540143b3722e366c0dd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_172.asset using Guid(1cbf4ab19d3540143b3722e366c0dd12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dc86b651cf42c02d2b27d0b271c487d') in 0.007451 seconds
+  Import took 0.009636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_156.asset
+  artifactKey: Guid(1e8ca6d6d195395489b0f4916d615816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_156.asset using Guid(1e8ca6d6d195395489b0f4916d615816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659ef19979de14c7d8f6eccabe0b6d82') in 0.008287 seconds
+  Import took 0.010435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_110.asset
+  artifactKey: Guid(3101943d2abc1b946b089f115da6d6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_110.asset using Guid(3101943d2abc1b946b089f115da6d6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65474de872c97a0a8623d5f87358a858') in 0.011938 seconds
+  Import took 0.014141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_120.asset
+  artifactKey: Guid(aa941f8ae2f21eb49a47546059c508d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_120.asset using Guid(aa941f8ae2f21eb49a47546059c508d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022da27a920dfeef93aa553d50eb44fe') in 0.008327 seconds
+  Import took 0.010529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_149.asset
+  artifactKey: Guid(ab627d4904aed864392e8c0d62c9918d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_149.asset using Guid(ab627d4904aed864392e8c0d62c9918d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc92296764f10e2f350a622bedf56cb') in 0.007465 seconds
+  Import took 0.009810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_106.asset
+  artifactKey: Guid(e9e1f5ada57435548ad2f0d04101fc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_106.asset using Guid(e9e1f5ada57435548ad2f0d04101fc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0be7587f6aae25d11c6cc5547bd1aab6') in 0.011145 seconds
+  Import took 0.013279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_165.asset
+  artifactKey: Guid(1ed0b4a383e228f4e86717238bb62e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_165.asset using Guid(1ed0b4a383e228f4e86717238bb62e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e4d587d086bc326c9321983b32bbe2') in 0.007970 seconds
+  Import took 0.010212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_107.asset
+  artifactKey: Guid(1100938d6ef4a6a439bacee4e5b517dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_107.asset using Guid(1100938d6ef4a6a439bacee4e5b517dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0754a466215c86ccb6b8b308db085cca') in 0.008176 seconds
+  Import took 0.010393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_173.asset
+  artifactKey: Guid(2aa68b9cb7b64c345aac76c7138c752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_173.asset using Guid(2aa68b9cb7b64c345aac76c7138c752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1a2cf626cd1239ec54052657fbe271') in 0.008193 seconds
+  Import took 0.010353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000114 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_165.asset
+  artifactKey: Guid(1ed0b4a383e228f4e86717238bb62e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_165.asset using Guid(1ed0b4a383e228f4e86717238bb62e0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88e4d587d086bc326c9321983b32bbe2') in 0.005222 seconds
+  Import took 0.007308 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009732 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_173.asset
+  artifactKey: Guid(2aa68b9cb7b64c345aac76c7138c752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_173.asset using Guid(2aa68b9cb7b64c345aac76c7138c752f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1a2cf626cd1239ec54052657fbe271') in 0.005193 seconds
+  Import took 0.007623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.530660 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_175.asset
+  artifactKey: Guid(e45623f1dead8ed41b907214c0ff8631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_175.asset using Guid(e45623f1dead8ed41b907214c0ff8631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9179140aeece1a8545fa85b891b369c') in 0.009284 seconds
+  Import took 0.011647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/medival.prefab
+  artifactKey: Guid(04e722e0c7f584046b051d8078b6d564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/medival.prefab using Guid(04e722e0c7f584046b051d8078b6d564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9d341d99db75c17f972200dc9eb78a') in 0.011104 seconds
+  Import took 0.013241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000139 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_178.asset
+  artifactKey: Guid(7f9b92aa5fbb15f44a910dbcc283586a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_178.asset using Guid(7f9b92aa5fbb15f44a910dbcc283586a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bad16806e48b099f5c016cba04c05f57') in 0.007787 seconds
+  Import took 0.010461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_176.asset
+  artifactKey: Guid(8a25d7d977ba0a04abb7521533403063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_176.asset using Guid(8a25d7d977ba0a04abb7521533403063) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53be960fec2f85f3313820ffd650a984') in 0.007420 seconds
+  Import took 0.009667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/test_#.prefab
+  artifactKey: Guid(8c71706c34e14884db5a5618467ddc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/test_#.prefab using Guid(8c71706c34e14884db5a5618467ddc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa30289ec7007eaaab10586bb1fae6e3') in 0.005210 seconds
+  Import took 0.007519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000121 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_177.asset
+  artifactKey: Guid(c33257b94a84fd041971c8a8407b6d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_177.asset using Guid(c33257b94a84fd041971c8a8407b6d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fab082814a1b402a26487a8b9bad807') in 0.008474 seconds
+  Import took 0.010686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_179.asset
+  artifactKey: Guid(8449f73b284f4ca44b408e5e92ee4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_179.asset using Guid(8449f73b284f4ca44b408e5e92ee4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91fbf227bcd56fa6980b6f854daa0de') in 0.007968 seconds
+  Import took 0.010162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_179.asset
+  artifactKey: Guid(8449f73b284f4ca44b408e5e92ee4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval_pixel_art_asset_FREE/Textures/Medieval_tiles_free2_179.asset using Guid(8449f73b284f4ca44b408e5e92ee4e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd91fbf227bcd56fa6980b6f854daa0de') in 0.005249 seconds
+  Import took 0.007427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.093502 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes
+  artifactKey: Guid(648ed3ed826419f4c96791acd0d924a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes using Guid(648ed3ed826419f4c96791acd0d924a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad7d32b04164794558d2811adcf79e2') in 0.004100 seconds
+  Import took 0.006542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.813133 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1
+  artifactKey: Guid(7a12092f6ff79404e9e7c4977fd075b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1 using Guid(7a12092f6ff79404e9e7c4977fd075b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b203b773a3bc2092ff531f1bf2705d92') in 0.004446 seconds
+  Import took 0.006789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068817 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Break (28x24).png
+  artifactKey: Guid(79022f0c1a1c5ce42bcba2ca880ef7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Break (28x24).png using Guid(79022f0c1a1c5ce42bcba2ca880ef7fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463f3fe88bd1b4a86b2ce789b6836418') in 0.050765 seconds
+  Import took 0.053068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Idle.png
+  artifactKey: Guid(48fd9917466ade44fa9bfd8326fab049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Idle.png using Guid(48fd9917466ade44fa9bfd8326fab049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9712cd1892318218412d8b2cd4c37c85') in 0.007084 seconds
+  Import took 0.009261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Hit (28x24).png
+  artifactKey: Guid(e3ec232265f6ad147aa2aa71472516d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes/Box1/Hit (28x24).png using Guid(e3ec232265f6ad147aa2aa71472516d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa7e696254950fd72fc1631b99bb618') in 0.012569 seconds
+  Import took 0.014793 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000444 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.595 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2291.
+Total: 1.456900 ms (FindLiveObjects: 0.123700 ms CreateObjectMapping: 0.052000 ms MarkObjects: 1.207600 ms  DeleteObjects: 0.073100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
